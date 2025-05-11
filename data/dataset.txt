@@ -1,1 +1,3 @@
-
+Hallo, wie geht es dir?
+Mir geht es gut. Was machst du?
+Ich entwickle ein Sprachmodell namens CarlAI.
